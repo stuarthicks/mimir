@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
+	"github.com/stuarthicks/mimir/internal/prompt"
 	"github.com/talal/go-bits/color"
-	"github.com/talal/mimir/internal/prompt"
 )
 
 func main() {

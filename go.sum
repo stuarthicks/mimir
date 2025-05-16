@@ -1,6 +1,6 @@
-github.com/talal/go-bits v0.0.0-20190324183132-a7ebf0762b92 h1:1LvKJTH/p98VB1LliH1ymRmtuhFvVBCkl4Ru+5zwDIE=
-github.com/talal/go-bits v0.0.0-20190324183132-a7ebf0762b92/go.mod h1:IaWL8TVo0gKkfVx+4RbcRkzp6FoeMqEtD88+5aCRwyY=
+github.com/talal/go-bits v0.0.0-20200204154716-071e9f3e66e1 h1:sDCJkxkdgPIDUKcOemdIsP2AnUjtLTVSlUDkAnf3fB4=
+github.com/talal/go-bits v0.0.0-20200204154716-071e9f3e66e1/go.mod h1:IaWL8TVo0gKkfVx+4RbcRkzp6FoeMqEtD88+5aCRwyY=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/yaml.v2 v2.2.2 h1:ZCJp+EgiOT7lHqUV2J862kp8Qj64Jo6az82+3Td9dZw=
-gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
